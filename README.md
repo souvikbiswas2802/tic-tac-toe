@@ -27,8 +27,6 @@ A simple yet elegant Tic Tac Toe game built with HTML, CSS, and JavaScript. Play
 
 ## Screenshots
 
-## Screenshots
-
 <img src="https://github.com/souvikbiswas2802/tic-tac-toe/blob/060b44a46157c4a78c7ae769a9b74da6d2b28ca3/screenshot.png"/>
 
 Game interface showing player X's turn
