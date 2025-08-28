@@ -27,7 +27,9 @@ A simple yet elegant Tic Tac Toe game built with HTML, CSS, and JavaScript. Play
 
 ## Screenshots
 
-![Game Preview] (https://github.com/souvikbiswas2802/tic-tac-toe/blob/060b44a46157c4a78c7ae769a9b74da6d2b28ca3/screenshot.png)
+## Screenshots
+
+<img src="https://github.com/souvikbiswas2802/tic-tac-toe/blob/060b44a46157c4a78c7ae769a9b74da6d2b28ca3/screenshot.png"/>
 
 Game interface showing player X's turn
 
@@ -46,6 +48,11 @@ To run this game locally:
    
 
 3. Open index.html in your web browser
+
+
+## Live Demo
+
+[Play the game here](https://ancient-tic-tac-toe.vercel.app/)
 
 
 ## Acknowledgments
