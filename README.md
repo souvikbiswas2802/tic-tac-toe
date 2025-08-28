@@ -36,13 +36,15 @@ Game interface showing player X's turn
 To run this game locally:
 
 1. Clone this repository:
-   bash
-   git clone https://github.com/souvikbiswas2802/tic-tac-toe.git
+   > bash
+   
+   > git clone https://github.com/souvikbiswas2802/tic-tac-toe.git
    
 
 2. Navigate to the project directory:
-   bash
-   cd tic-tac-toe
+   > bash
+   
+   > cd tic-tac-toe
    
 
 3. Open index.html in your web browser
